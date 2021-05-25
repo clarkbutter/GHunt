@@ -9,4 +9,7 @@ colorama
 chromedriver-autoinstaller
 beautifultable
 termcolor
+<<<<<<< HEAD
 webdriver-manager
+=======
+>>>>>>> master
